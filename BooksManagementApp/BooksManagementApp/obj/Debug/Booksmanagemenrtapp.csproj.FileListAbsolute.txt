@@ -1,0 +1,63 @@
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.AssemblyReference.cache
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Add.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Bookinsert.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Change.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Checkdetails.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Confirm.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Delete.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Home.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Logins.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Properties.Resources.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Showbook.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Studentinsert.resources
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.GenerateResource.cache
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.CoreCompileInputs.cache
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksDB.mdf
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksDB_log.ldf
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.exe.config
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.exe
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.pdb
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.exe
+C:\Users\Tharindu\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.pdb
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksDB.mdf
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksDB_log.ldf
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.exe.config
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.exe
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.pdb
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.AssemblyReference.cache
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Add.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Bookinsert.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Change.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Checkdetails.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Confirm.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Delete.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Home.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Logins.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Properties.Resources.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Showbook.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Studentinsert.resources
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.GenerateResource.cache
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.CoreCompileInputs.cache
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.exe
+C:\Users\SNC\Desktop\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.pdb
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\bin\Debug\BooksDB.mdf
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\bin\Debug\BooksDB_log.ldf
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.exe.config
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.exe
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\bin\Debug\BooksManagementApp.pdb
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.AssemblyReference.cache
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Add.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Bookinsert.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Change.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Checkdetails.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Confirm.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Delete.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Home.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Logins.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Properties.Resources.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Showbook.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.Studentinsert.resources
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.GenerateResource.cache
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\Booksmanagemenrtapp.csproj.CoreCompileInputs.cache
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.exe
+E:\Second Year\Advance Programming\Practicle\Project\BooksManagementApp\BooksManagementApp\obj\Debug\BooksManagementApp.pdb
